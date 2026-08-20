@@ -1,5 +1,3 @@
 export default function Congratulations() {
-  return (
-    <h1>Good job!</h1>
-  );
+  return <h1>Good job!</h1>;
 }
